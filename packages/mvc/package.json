@@ -1,0 +1,12 @@
+{
+  "name": "@demo-node/mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pure": "pm2 start ./pure/restful/index.ts --env development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

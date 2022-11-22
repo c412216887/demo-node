@@ -1,0 +1,15 @@
+{
+  "name": "@demo-node/event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "module",
+  "scripts": {
+    "loop": "ts-node index.ts",
+    "sync": "ts-node count-sync/index.ts",
+    "async": "ts-node count-async/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

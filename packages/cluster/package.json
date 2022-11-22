@@ -1,0 +1,12 @@
+{
+  "name": "@demo-node/cluster",
+  "version": "1.0.0",
+  "description": "node 集群模式",
+  "main": "cluster.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ewan",
+  "license": "ISC"
+}
